@@ -1,0 +1,31 @@
+.mission-section {
+    background-color: #FDEBEE;
+  }
+  
+  .mission-image {
+    max-width: 90%;
+    height: 450px;
+  }
+  
+  .mission-title {
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 15px;
+  }
+  
+  .mission-subtext {
+    font-size: 1.1rem;
+    color: #555;
+  }
+  
+  .mission-buttons img {
+    max-width: 150px;
+    height: auto;
+    transition: transform 0.3s ease;
+  }
+  
+  .mission-buttons img:hover {
+    transform: scale(1.05);
+  }
+  

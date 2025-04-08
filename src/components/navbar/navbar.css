@@ -1,0 +1,89 @@
+.logo {
+    width: 100px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+
+.navbar {
+    padding: 17px 0px !important;
+}
+
+.navbar-container {
+    background-color: white !important;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.nav-link {
+    color: red !important;
+    transition: background-color 0.3s ease !important;
+    cursor: pointer !important;
+    text-transform: uppercase;
+    font-size: 13px !important;
+    font-weight: 600 !important;
+
+
+}
+
+.nav-link:hover {
+    color: black !important;
+    transform: scale(1.1) !important;
+    transition: all 0.3s ease !important;
+    cursor: pointer !important;
+
+}
+
+.flag {
+    width: 20px !important;
+    height: 20px !important;
+    margin-right: 2px !important;
+    border-radius: 50% !important;
+    /* border: 1px solid #cf232a !important; */
+}
+
+.home-btn {
+    color: white !important;
+    border-radius: 7px !important;
+    border: none;
+    padding: 8px 15px !important;
+    text-transform: capitalize;
+    font-size: 13px !important;
+
+
+}
+
+.btn-signin {
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    border: 1px #cf232a solid;
+    background-color: white !important;
+    color: #cf232a !important;
+}
+
+.btn-signup {
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    background: linear-gradient(180deg, #f37e5f 0, #ec1c24 59%, #cf232a 100%);
+    border: 1px #cf232a solid;
+
+
+}
+
+.btn-signup:hover {
+    background-color: #f37e5f !important;
+    color: white !important;
+    border-radius: 5px !important;
+    border: none;
+    text-transform: capitalize;
+    font-size: 12px !important;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='black' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}

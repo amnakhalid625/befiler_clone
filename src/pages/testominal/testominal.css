@@ -1,0 +1,53 @@
+
+.testominal-section {
+    background-color: #FDEBEE;
+  }
+  
+  .testominal-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .testominal-text {
+    font-size: 1rem;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 9px;
+  }
+  
+  .customer-name {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 9px;
+  }
+  
+  .testominal-image {
+    max-width: 90%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+
+  
+  /* Responsive Layout */
+  @media (max-width: 768px) {
+    .testominal-section {
+      padding: 30px 15px;
+    }
+  
+    .testominal-title {
+      font-size: 1.8rem;
+    }
+  
+    .testominal-text {
+      font-size: 0.95rem;
+    }
+  
+    .customer-name {
+      font-size: 1rem;
+    }
+  }
+  
