@@ -20,7 +20,6 @@ const Partner = () => {
     'https://www.befiler.com/assets/images/home/partner_13.png',
     'https://www.befiler.com/assets/images/home/partner_14.png',
   ];
-
   return (
     <section className="partner-section container-fluid py-5">
       <div className="container text-center">
