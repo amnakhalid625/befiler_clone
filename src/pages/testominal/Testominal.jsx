@@ -17,14 +17,14 @@ const Testominal = () => {
             <p className="testominal-text">
               "This product has completely changed the way I do my work! I am more productive and organized. Highly recommend!"
             </p>
-            <p className="customer-name">- John Doe</p>
+            <p className="customer-name">-John Doe</p>
 
             
 
             <p className="testominal-text">
               "Absolutely love it! It's intuitive and easy to use. Worth every penny!"
             </p>
-            <p className="customer-name">- Jane Smith</p>
+            <p className="customer-name">-Jane Smith</p>
           </div>
         </div>
       </div>
