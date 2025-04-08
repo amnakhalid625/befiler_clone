@@ -5,7 +5,6 @@ import flag from './../../assets/usa-flag.png'
 import logo from '../../assets/logo.png'
 import './navbar.css'
 
-
 const Navbar = () => {
   return (
 
