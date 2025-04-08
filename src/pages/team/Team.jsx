@@ -1,6 +1,5 @@
 import React from 'react';
 import './team.css'; 
-
 const teamMembers = [
   {
     name: 'Imama Siddiqui',
