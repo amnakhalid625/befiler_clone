@@ -1,11 +1,11 @@
 import React from 'react';
-import './Team.css'; 
+import './team.css'; 
 
 const teamMembers = [
   {
     name: 'Imama Siddiqui',
     role: 'Manager Digital Tax',
-    img: 'https://www.befiler.com/assets/images/home/consultants/consultant-1.png' // replace with actual image
+    img: 'https://www.befiler.com/assets/images/home/consultants/consultant-1.png' 
   },
   {
     name: 'Muhammad Sharif',
