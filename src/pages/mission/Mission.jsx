@@ -1,4 +1,3 @@
-import React from 'react';
 import mobile from '../../assets/mobile.png';
 import button1 from '../../assets/button.png';
 import button2 from '../../assets/button1.png';
