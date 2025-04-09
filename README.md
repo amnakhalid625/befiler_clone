@@ -6,7 +6,7 @@
 - Responsiveness
 - Readability
 - Minimalist
-- 
+
 
 
 
