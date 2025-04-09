@@ -1,8 +1,9 @@
 # Befiler Clone website
+
 ### Using the React bootstrap and custom CSS
 
 
-#Features
+# Features
 - Responsiveness
 - Readability
 - Minimalist
